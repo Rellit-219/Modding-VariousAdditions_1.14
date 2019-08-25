@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "variousadditions:smooth_soulstone"
+  },
+  "result": "variousadditions:smooth_soulstone_slab",
+  "count": 2
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "variousadditions:smooth_soulstone"
+    }
+  },
+  "result": {
+    "item": "variousadditions:smooth_soulstone_stairs",
+    "count": 4
+  }
+}

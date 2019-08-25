@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "variousadditions:soulstone"
+      },
+      {
+        "item": "variousadditions:chiseled_soulstone"
+      }
+    ]
+  },
+  "result": {
+    "item": "variousadditions:soulstone_slab",
+    "count": 6
+  }
+}
