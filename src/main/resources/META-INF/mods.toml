@@ -1,0 +1,28 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (26 is current forge version)
+issueTrackerURL="http://my.issue.tracker/" #optional
+[[mods]] #mandatory
+modId="variousadditions" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Various Additions" #mandatory
+logoFile="examplemod.png" #optional
+credits="The_Chipmunk/Rellit for making everything." #optional
+authors="The_Chipmunk/Rellit" #optional
+description='''Various Additions to Minecraft.
+Currently Adds :
+Various Coins,
+Bamboo Charcoal,
+3 New Paintings,
+and Soulstone'''
+[[dependencies.variousadditions]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[28,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.variousadditions]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
