@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "variousadditions:block/soulstone_top",
+        "side": "variousadditions:block/chiseled_soulstone"
+    }
+}
