@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "variousadditions:item/bamboo_charcoal"
+    }
+}
