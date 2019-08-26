@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "variousadditions:block/soulstone_slab" },
+        "type=top": { "model": "variousadditions:block/soulstone_slab_top" },
+        "type=double": { "model": "variousadditions:block/soulstone" }
+    }
+}
